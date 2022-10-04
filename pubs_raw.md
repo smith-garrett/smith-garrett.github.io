@@ -14,10 +14,18 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 ## Published articles
 
-@yadav2022individual [Data and code.](https://osf.io/3na9q/)  
+@yadav2022individual\. [Data and code.](https://osf.io/3na9q/)
 
-@smith2021encoding [PDF](https://doi.org/10.1016/j.cogpsych.2020.101356) 
+@smith2021encoding\. [Data and code.](https://osf.io/hjrkn/)
 
+@smith2020principled\. [Data](https://osf.io/395xb/) and
+[code.](https://github.com/smith-garrett/spec_context)
+
+@fuhrmeister2020overlearning\. [Data and code.](https://osf.io/hm24w/)
+
+@smith2018self\. [Data and code.](https://github.com/smith-garrett/SmithFranckTabor2018)
+
+@fang2017importance
 
 ## Preprints
 
