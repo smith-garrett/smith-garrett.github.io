@@ -10,6 +10,16 @@ medium-sized continuous-time, discrete-state systems*.
 https://github.com/garrett-m-smith/fptools.
 <https://doi.org/10.5281/zenodo.4964256>
 
+## Preprints
+
+Yadav, H., Smith, G., Reich, S., & Vasishth, S. (2022). *Number feature
+distortion modulates cue-based retrieval in reading*.
+<https://doi.org/10.31234/osf.io/s4c9t>
+
+Smith, G., & Vasishth, S. (2021). *A software toolkit for modeling human
+sentence parsing: An approach using continuous-time, discrete-state
+stochastic dynamical systems*. <https://psyarxiv.com/dtazq/>
+
 ## Published articles
 
 Yadav, H., Paape, D., Smith, G., Dillon, B. W., & Vasishth, S. (2022).

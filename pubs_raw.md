@@ -12,6 +12,12 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 @smith2021fptools
 
+## Preprints
+
+@yadav2022number
+
+@smith2021software
+
 ## Published articles
 
 @yadav2022individual\. [Data and code.](https://osf.io/3na9q/)

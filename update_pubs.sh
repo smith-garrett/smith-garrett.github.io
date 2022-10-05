@@ -5,4 +5,4 @@ pandoc --citeproc --csl=apa pubs_raw.md -t markdown-citations -o publications.md
     --lua-filter=/Users/garrettsmith/.pandoc/filters/inline_citation.lua
 
 # Remove unnecessary references section, kludge
-sed -i '' -e '/^:::/,$d' publications.md
+sed -i'' -e '/^:::/,$d' publications.md
