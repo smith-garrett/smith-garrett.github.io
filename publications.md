@@ -74,6 +74,6 @@ processing. *Proceedings of CogSci 2021*, 2176--2182.
 
 Smith, G., & Tabor, W. (2018). Toward a theory of timing effects in
 self-organized sentence processing. In I. Juvina, J. Houpt, & C. Myers
-(Eds.), *[Proceedings of the 16th International Conference on Cognitive
-Modeling]{.nocase}* (pp. 138--143). University of Wisconsin.
+(Eds.), *Proceedings of the 16th international conference on cognitive
+modeling* (pp. 138--143). University of Wisconsin.
 
