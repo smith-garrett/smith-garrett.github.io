@@ -33,14 +33,13 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 @fang2017importance
 
-## Preprints
-
-@yadav2022number
-
-
 ## Conference proceedings
 
 @yadav2021is
 
 @yadav2021feature
+
+@pankratz2021statistical
+
+@smith2018toward
 

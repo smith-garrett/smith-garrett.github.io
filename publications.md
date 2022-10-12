@@ -55,12 +55,6 @@ situation-specific encodings: Analysis of a simple connectionist model
 of letter transposition effects. *Connection Science*, *30*(2),
 135--159. <https://doi.org/10.1080/09540091.2016.1272097>
 
-## Preprints
-
-Yadav, H., Smith, G., Reich, S., & Vasishth, S. (2022). *Number feature
-distortion modulates cue-based retrieval in reading*.
-<https://doi.org/10.31234/osf.io/s4c9t>
-
 ## Conference proceedings
 
 Yadav, H., Smith, G., & Vasishth, S. (2021b). Is similarity-based
@@ -72,4 +66,14 @@ Yadav, H., Smith, G., & Vasishth, S. (2021a). Feature encoding modulates
 cue-based retrieval: Modeling interference effects in both grammatical
 and ungrammatical sentences. *Proceedings of the Annual Meeting of the
 Cognitive Science Society*, *43*, 202--208.
+
+Pankratz, E., Yadav, H., Smith, G., & Vasishth, S. (2021). Statistical
+properties of the speed-accuracy trade-off (SAT) paradigm in sentence
+processing. *Proceedings of CogSci 2021*, 2176--2182.
+<https://cognitivesciencesociety.org/wp-content/uploads/2021/07/cogsci21_proceedings_v3.pdf#page=2254>
+
+Smith, G., & Tabor, W. (2018). Toward a theory of timing effects in
+self-organized sentence processing. In I. Juvina, J. Houpt, & C. Myers
+(Eds.), *[Proceedings of the 16th International Conference on Cognitive
+Modeling]{.nocase}* (pp. 138--143). University of Wisconsin.
 
