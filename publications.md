@@ -12,15 +12,17 @@ https://github.com/garrett-m-smith/fptools.
 
 ## Preprints
 
-Yadav, H., Smith, G., Reich, S., & Vasishth, S. (2022). *Number feature
-distortion modulates cue-based retrieval in reading*.
-<https://doi.org/10.31234/osf.io/s4c9t>
-
 Smith, G., & Vasishth, S. (2021). *A software toolkit for modeling human
 sentence parsing: An approach using continuous-time, discrete-state
 stochastic dynamical systems*. <https://psyarxiv.com/dtazq/>
 
 ## Published articles
+
+Yadav, H., Smith, G., Reich, S., & Vasishth, S. (2023). Number feature
+distortion modulates cue-based retrieval in reading. *Journal of Memory
+and Language*, *129*(104400).
+<https://doi.org/10.1016/j.jml.2022.104400>. [Data and
+code.](https://osf.io/gqj3p/)
 
 Yadav, H., Paape, D., Smith, G., Dillon, B. W., & Vasishth, S. (2022).
 Individual differences in cue weighting in sentence somprehension: An

@@ -14,11 +14,11 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 ## Preprints
 
-@yadav2022number
-
 @smith2021software
 
 ## Published articles
+
+@yadav2023number\. [Data and code.](https://osf.io/gqj3p/)
 
 @yadav2022individual\. [Data and code.](https://osf.io/3na9q/)
 
