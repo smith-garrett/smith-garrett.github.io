@@ -59,6 +59,13 @@ of letter transposition effects. *Connection Science*, *30*(2),
 
 ## Conference proceedings
 
+Yadav, H., Smith, G., Mertzen, D., Engbert, R., & Vasishth, S. (2022).
+Individuals differ cross-linguistically in cue weighting: A
+computational evaluation of cue-based retrieval in sentence processing.
+In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.),
+*Proceedings of the 44th annual meeting of the cognitive science
+society*.
+
 Yadav, H., Smith, G., & Vasishth, S. (2021b). Is similarity-based
 interference caused by lossy compression or cue-based retrieval? A
 computational evaluation. *Proceedings of the 19th International

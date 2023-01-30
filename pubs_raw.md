@@ -35,6 +35,8 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 ## Conference proceedings
 
+@yadav2022individuals
+
 @yadav2021is
 
 @yadav2021feature
