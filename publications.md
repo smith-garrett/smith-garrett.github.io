@@ -2,8 +2,11 @@
 
 ## Software
 
-Smith, G., & contributors. (2023). *Uniformization.jl* (Version v0.1.0).
-<https://doi.org/10.5281/zenodo.7584378>
+Smith, G., & contributors. (2023a). *BinaryHypervectors.jl* (Version
+v0.1.1). <https://doi.org/10.5281/zenodo.8192200>
+
+Smith, G., & contributors. (2023b). *Uniformization.jl* (Version
+v0.1.0). <https://doi.org/10.5281/zenodo.7584378>
 
 Smith, G., & contributors. (2022). *FirstPassageTools.jl* (Version
 v0.1.0). <https://doi.org/10.5281/zenodo.6539033>

@@ -8,6 +8,8 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 ## Software
 
+@smith2023binary
+
 @smith2023uniformization
 
 @smith2022first
