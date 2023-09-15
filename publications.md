@@ -5,11 +5,11 @@
 Smith, G., & contributors. (2023a). *BinaryHypervectors.jl* (Version
 v0.1.1). <https://doi.org/10.5281/zenodo.8192200>
 
-Smith, G., & contributors. (2023b). *Uniformization.jl* (Version
+Smith, G., & contributors. (2023c). *Uniformization.jl* (Version
 v0.1.0). <https://doi.org/10.5281/zenodo.7584378>
 
-Smith, G., & contributors. (2022). *FirstPassageTools.jl* (Version
-v0.1.0). <https://doi.org/10.5281/zenodo.6539033>
+Smith, G., & contributors. (2023b). *FirstPassageTools.jl* (Version
+v0.2.1). <https://doi.org/10.5281/zenodo.6539033>
 
 Smith, G. (2021). *Fptools: First-passage time tools for small- to
 medium-sized continuous-time, discrete-state systems*.
