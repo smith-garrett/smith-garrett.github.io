@@ -20,6 +20,7 @@ https://github.com/garrett-m-smith/fptools.
 
 Paape, D., Smith, G., & Vasishth, S. (2023). *Do local coherence effects
 exist in english reduced relative clauses?*
+<https://doi.org/10.31219/osf.io/wpke4>
 
 Smith, G., & Vasishth, S. (2021). *A software toolkit for modeling human
 sentence parsing: An approach using continuous-time, discrete-state
