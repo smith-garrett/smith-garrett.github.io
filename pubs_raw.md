@@ -18,6 +18,8 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 ## Preprints
 
+@paape2023do
+
 @smith2021software
 
 ## Published articles
