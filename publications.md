@@ -28,6 +28,10 @@ stochastic dynamical systems*. <https://psyarxiv.com/dtazq/>
 
 ## Published articles
 
+Tabor, W., Smith, G., & Dankowicz, H. (2024). Escape from fraught states
+in a coordination game. *Royal Society Open Science*, *11*(231314).
+<https://doi.org/10.1098/rsos.231314>.
+
 Yadav, H., Smith, G., Reich, S., & Vasishth, S. (2023). Number feature
 distortion modulates cue-based retrieval in reading. *Journal of Memory
 and Language*, *129*(104400).
