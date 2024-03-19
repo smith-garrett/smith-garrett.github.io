@@ -5,7 +5,7 @@ firstname dot lastname at uni-potsdam.de\\
 
 ### About me
 
-I am a postdoc in [Shravan Vasisth's](https://vasishth.github.io/) lab at the University of
+I am a postdoc in [Shravan Vasishth's](https://vasishth.github.io/) lab at the University of
 Potsdam working on building and testing stochastic models of sentence comprehension. As a
 part of the [Collaborative Research Center 1287](https://www.sfb1287.uni-potsdam.de/), I
 work on integrating such models with a computational model of eye-movement control during
