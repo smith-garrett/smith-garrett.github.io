@@ -1,3 +1,4 @@
 # Posts
 
-* 17.04.2024: [Modeling sentence processing using sticky word-blobs and first-passage times](./word-blobs.html)
+- 2024-04-17: [Sentence processing using sticky blobs and first-passage time analyses](../posts/word-blobs)
+
