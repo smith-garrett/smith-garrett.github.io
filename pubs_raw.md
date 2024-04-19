@@ -16,6 +16,12 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 @smith2021fptools
 
+### Open source contributions
+
+[Bug fix for Turing.jl](https://github.com/TuringLang/Turing.jl/pull/2167)
+
+[Bug fix for ParetoSmooth.jl](https://github.com/TuringLang/ParetoSmooth.jl/pull/92) 
+
 ## Preprints
 
 @paape2023do

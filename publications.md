@@ -16,6 +16,14 @@ medium-sized continuous-time, discrete-state systems*.
 https://github.com/garrett-m-smith/fptools.
 <https://doi.org/10.5281/zenodo.4964256>
 
+### Open source contributions
+
+[Bug fix for
+Turing.jl](https://github.com/TuringLang/Turing.jl/pull/2167)
+
+[Bug fix for
+ParetoSmooth.jl](https://github.com/TuringLang/ParetoSmooth.jl/pull/92)
+
 ## Preprints
 
 Paape, D., Smith, G., & Vasishth, S. (2023). *Do local coherence effects
