@@ -24,11 +24,11 @@ bibliography: /Users/garrettsmith/Library/TinyTeX/texmf-local/bibtex/bib/local/m
 
 ## Preprints
 
-@paape2023do
-
 @smith2021software
 
 ## Published articles
+
+Paape, D., Smith, G., & Vasishth, S. (2025). Do local coherence effects exist in English reduced relative clauses? *Journal of Memory and Language 140*(104578). [Data and code.](https://osf.io/f8qwh)
 
 @tabor2024escape\.
 

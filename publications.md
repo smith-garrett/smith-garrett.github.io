@@ -26,15 +26,13 @@ ParetoSmooth.jl](https://github.com/TuringLang/ParetoSmooth.jl/pull/92)
 
 ## Preprints
 
-Paape, D., Smith, G., & Vasishth, S. (2023). *Do local coherence effects
-exist in english reduced relative clauses?*
-<https://doi.org/10.31219/osf.io/wpke4>
-
 Smith, G., & Vasishth, S. (2021). *A software toolkit for modeling human
 sentence parsing: An approach using continuous-time, discrete-state
 stochastic dynamical systems*. <https://psyarxiv.com/dtazq/>
 
 ## Published articles
+
+Paape, D., Smith, G., & Vasishth, S. (2025). Do local coherence effects exist in English reduced relative clauses? *Journal of Memory and Language 140*(104578). [Data and code.](https://osf.io/f8qwh)
 
 Tabor, W., Smith, G., & Dankowicz, H. (2024). Escape from fraught states
 in a coordination game. *Royal Society Open Science*, *11*(231314).
@@ -80,6 +78,8 @@ of letter transposition effects. *Connection Science*, *30*(2),
 135--159. <https://doi.org/10.1080/09540091.2016.1272097>
 
 ## Conference proceedings
+
+Smith, G., Vasishth, S., & Engbert, R. (2024). Investigating parameter identifiability and "sloppiness" in a dynamical model of reading. Paper presented at Virtual MathPsych/ICCM 2024. [Talk recording.](https://mathpsych.org/presentation/1391) [Code.](https://github.com/smith-garrett/mathpsych2024)
 
 Yadav, H., Smith, G., Mertzen, D., Engbert, R., & Vasishth, S. (2022).
 Individuals differ cross-linguistically in cue weighting: A
