@@ -1,6 +1,8 @@
 # Posts
 
-- 2024-31-07: [Modeling scan paths in reading using self-avoiding walks](../posts/self-avoiding-scanpaths)
+- 2025-04-06: [Scraping weightlifting stats using F\#](../posts/bundesliga-fsharp)
+
+- 2024-07-31: [Modeling scan paths in reading using self-avoiding walks](../posts/self-avoiding-scanpaths)
 
 - 2024-05-06: [Parsing a formal language using F\#](../posts/anbn)
 
