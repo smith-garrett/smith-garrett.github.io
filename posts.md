@@ -1,5 +1,7 @@
 # Posts
 
+- 2026-05-15: [Confidence intervals](https://smith-garrett.github.io/confidence_intervals/)
+
 - 2025-04-06: [Scraping weightlifting stats using F\#](../posts/bundesliga-fsharp)
 
 - 2024-07-31: [Modeling scan paths in reading using self-avoiding walks](../posts/self-avoiding-scanpaths)
